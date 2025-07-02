@@ -1,0 +1,4 @@
+- Inversión de activos fijos:  $\sum(Neto UF) * 1.19$
+- Depreciación: $\frac{NetoUF - Valor residual}{Vida útil} =$ x por año 
+- Reinversión: (Cosas a reinvertir)\*(Porcentaje de cantidad de cosas a reinvertir)\*(Valor de compra)\*(Impuesto)
+- 
